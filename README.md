@@ -2,8 +2,8 @@
 
 ## I'm a Developer!
 
-- 🔭 Currently working on a personal project with C++!
-- 🥅 2020 Goals: Have one or more prototypes 
+- 🔭 Currently working on a game project
+- 🥅 2021 Goals: Have one or more prototypes 
 - ⚡ Fun fact: I love miniatures, electronic and board games
 
 ### Connect with me:
