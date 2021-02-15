@@ -10,7 +10,7 @@
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://static.itch.io/images/itchio-textless-white.svg" />][itch.io]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://static.itch.io/images/itchio-textless-black.svg" />][itch.io]
 
 <br />
 
