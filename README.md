@@ -36,3 +36,4 @@
 
 [twitter]: https://twitter.com/crhraphael
 [linkedin]: https://www.linkedin.com/in/crhistian-raphael
+[itch.io]: https://crhraphael.itch.io/
