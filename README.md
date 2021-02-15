@@ -44,7 +44,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="CakePHP" width="26px" src="https://cakephp.org/img/trademarks/logo-1.jpg" />
+<img align="left" alt="CakePHP" width="26px" background-color="#000000" src="https://cakephp.org/img/cake-logo.svg" />
 <img align="left" alt="CodeIgniter" width="26px" src="https://codeigniter.com/assets/images/ci-logo-big.png" />
 <img align="left" alt="Symphony" width="26px" src="https://symfony.com/images/logos/header-logo.svg" />
 
