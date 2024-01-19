@@ -53,18 +53,21 @@
 <br />
 <br />
 
+----------------------
 
-#### GAME DEV
+#### GAME DEVELOPMENT ENVIRONMENT
 
-##### Languages
+##### Languages:
 C++;
 C#;
+NodeJS (Javascript/Typescript);
 
-##### Frameworks
+##### Frameworks:
 XNA Framework;
 
-##### Engines
+##### Engines:
 Unity3D
+Unreal Engine 3
 Godot2
 
 <br />
