@@ -73,18 +73,18 @@ SYMFONY
 #### GAME DEVELOPMENT ENVIRONMENT
 
 ##### Languages:
-C++;
-C#;
-Javascript/Typescript (NodeJS);
+- C++;
+- C#;
+- Javascript/Typescript (NodeJS);
 
 ##### Frameworks:
-XNA Framework;
-NODEJS (API);
+- XNA Framework;
+- NODEJS (API);
 
 ##### Engines:
-Unity3D
-Unreal Engine 3
-Godot2
+- Unity3D
+- Unreal Engine 3
+- Godot2
 
 <br />
 
