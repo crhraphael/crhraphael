@@ -16,7 +16,9 @@
 
 ### Tools, Languages and Frameworks:
 
-#### Tools:
+#### WEB ENVIRONMENT
+
+##### Tools:
 
 <img align="left" alt="Unity3D" width="26px" src="https://avatars.githubusercontent.com/u/426196?s=200&v=4" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -27,7 +29,7 @@
 
 </br>
 
-#### Languages:
+##### Languages:
 
 <img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="CPlusPlus" width="26px" src="https://docs.microsoft.com/en-us/media/logos/logo_Cplusplus.svg" />
@@ -38,7 +40,7 @@
 
 </br>
 
-#### Frameworks:
+##### Frameworks:
 
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -49,6 +51,20 @@
 <img align="left" alt="Symphony" width="26px" src="https://symfony.com/images/logos/header-logo.svg" />
 
 <br />
+
+#### GAME DEV
+
+##### Languages
+C++;
+C#;
+
+##### Frameworks
+XNA Framework;
+
+##### Engines
+Unity3D
+Godot2
+
 <br />
 
 
