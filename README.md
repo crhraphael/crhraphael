@@ -3,8 +3,7 @@
 ## I'm a Developer!
 
 - 🔭 Currently working on a game project
-- 🥅 2021 Goals: Have one or more prototypes 
-- ⚡ Fun fact: I love miniatures, electronic and board games
+- ⚡ Fun fact: I love miniatures, electronics and board games
 
 ### Connect with me:
 
@@ -13,6 +12,8 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://static.itch.io/images/itchio-textless-black.svg" />][itch.io]
 
 <br />
+
+----------------------
 
 ### Tools, Languages and Frameworks:
 
@@ -28,6 +29,7 @@
 - Windows;
 - MAC;
 
+----------------------
 
 #### WEB DEVELOPMENT ENVIRONMENT
 
@@ -87,6 +89,8 @@
 - Godot2;
 
 <br />
+
+----------------------
 
 #### DATABASE ENVIRONMENT
 
